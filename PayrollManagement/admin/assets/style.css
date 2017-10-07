@@ -1,0 +1,41 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.form{
+	width: 550px;
+	margin: 10% auto;
+	border: 2px solid grey;
+	padding: 20px;
+	border-radius: 10px;
+}
+.heading{
+	text-align: left;
+	padding: 10px;
+	border: 1px solid red;
+}
+.heading i{
+	text-align: right!important;
+	border: 1px solid black;
+}
+.bg-picture{
+	background-color: rgba(240,240,240,0.5);
+	background-image: url('../images/background.jpg')!important;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+
+}
+.card-login{
+
+}
+.login-button{
+	border-radius: 0;
+}
+.small-font-size{
+	font-size: 14px;
+	font-family: calibri;
+	padding-left: 2px;
+}
+.with-errors .list-unstyled li{
+	color: red!important;
+}
